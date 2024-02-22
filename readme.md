@@ -49,5 +49,14 @@ _Use Underscore to make your text look in Italic_
   * A2
   * A3
     * A31
-     
+
+## Paragraphs
+### Soft Breaks 
+> Use spaces 2 times after the end of the paragraph
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.Sed sed rutrum odio. Vestibulum at odio at velit vestibulum viverra eget pharetra ligula.  
+Fusce lorem nulla, gravida non volutpat id, aliquet ac nisl. Ut sodales vitae erat facilisis pharetra.  
+Integer facilisis, orci quis facilisis vestibulum, nisi ex vehicula orci, eu tincidunt libero risus non nibh. Aliquam turpis ipsum, ultrices quis vulputate in, bibendum sed quam.  
+Proin ut gravida ligula, et placerat nisi. Fusce sollicitudin est id ultricies dictum. Aenean eu sodales sem. Phasellus tincidunt eros tellus, at sollicitudin urna ultricies consectetur.
+Pellentesque elit eros, pharetra nec leo non, pharetra porttitor mauris. Ut et elit libero. Curabitur tempus ac neque a scelerisque. Donec eu ante vulputate, pellentesque urna ac, aliquet lectus.
     
